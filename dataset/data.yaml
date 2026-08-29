@@ -1,0 +1,16 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+
+names:
+  0: text
+  1: caption
+  2: chapter-heading
+  3: header
+  4: image
+  5: list
+  6: section-heading
+  7: sub-section-heading
+  8: table
