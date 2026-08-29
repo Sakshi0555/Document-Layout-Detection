@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+.env
+
+# Dataset
+dataset/
+
+# Model weights
+*.pt
